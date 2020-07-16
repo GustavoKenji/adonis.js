@@ -28,7 +28,9 @@
     "mysql": "^2.18.1",
     "pg": "^8.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "knex": ">=0.19.5"
+  },
   "autoload": {
     "App": "./app"
   }
